@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+body {
+    /*background: linear-gradient(#3f87a6, #ebf8e1, #f69d3c, #561423);*/
+    /*background: linear-gradient(#010e14, #513501, #6b3d0ccc, #480302);*/
+    /*background: linear-gradient(to bottom, #CE290E 0%, #3512A4 36%, #E6DA17 100%);*/
+    background: linear-gradient(#010e14, #110503, #0f0302f6, #170606);
+    height: 100vh;
+    overflow: hidden;
+}
+
+#gameCanvas {
+    border: darkgoldenrod solid 1px;
+    border-radius: 3px;
+}
+
+h1 {
+    font-family: 'Bungee Spice', sans-serif;
+    margin-left: 300px;
+}
